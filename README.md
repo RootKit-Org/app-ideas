@@ -1,6 +1,3 @@
-[![CodeRabbit](./coderabbit.jpg)](https://www.coderabbit.ai/?ref=app-ideas)
-Thank you [CodeRabbit](https://www.coderabbit.ai/?ref=app-ideas) for sponsoring this repository! 🙏
-
 # :ledger: App Ideas Collection
 
 Have you ever wanted to build something but you had no idea what to do? Just as
